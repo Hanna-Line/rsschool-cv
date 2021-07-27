@@ -1,0 +1,38 @@
+footer {
+    margin: 0 auto;
+    width: 800px;
+    height: 50px;
+	background: #4682B4;
+	padding: 20px 0;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+    font-size: 80%;
+}
+main {
+    margin: 0 auto;
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 120%;
+    width: 800px;
+    }
+
+h3 {font-size: 120%;
+}
+div.heading {
+background-color: thistle;
+margin: 10px 70% 10px 0;
+}
+#Layer_1{
+width: 50px;
+height: 50px;
+background-color:#4682B4;
+}
+h1 {text-align: center;
+}
+div.foto {
+    padding: 0;
+	width: 200px;
+    margin:0 30px 0 550px;
+	}
+    body {
+    background-color:ivory;
+        }
